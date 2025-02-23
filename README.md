@@ -25,4 +25,4 @@ This course focuses on mastering Python:
 - **Day 5**: Password Generator
 
 ## 🔗 Relevant Links:
-- [The Complete Python Pro Bootcamp Course](https://www.udemy.com/course/the-complete-python-pro-bootcamp/)
+- [The Complete Python Pro Bootcamp Course](https://www.udemy.com/course/100-days-of-code/)
